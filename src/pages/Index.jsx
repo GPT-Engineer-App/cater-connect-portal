@@ -22,6 +22,9 @@ const Index = () => {
           <Button leftIcon={<FaPizzaSlice />} variant="ghost">
             Contact
           </Button>
+          <Button leftIcon={<FaInfoCircle />} variant="ghost">
+            Manager Login
+          </Button>
         </HStack>
       </Flex>
 
